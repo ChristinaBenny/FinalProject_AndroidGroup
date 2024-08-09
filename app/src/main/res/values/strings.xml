@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidGroup_FinalProject</string>
+    <string name="time_zone">"Time Zone Tracking"</string>
+    <string name="timeZone_text">"Time zone tracking"</string>
 </resources>
